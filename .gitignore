@@ -1,0 +1,5 @@
+*.html
+*.pdf.html
+/images
+/s6
+/scripts
